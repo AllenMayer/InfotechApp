@@ -1,0 +1,6 @@
+framework module Pods_InfotechApp {
+  umbrella header "Pods-InfotechApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
